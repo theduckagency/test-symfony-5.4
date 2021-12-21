@@ -29,7 +29,7 @@ docker-compose exec php \
 ```
 
 ## À vous de jouer !
-Veuillez suivre les indications présentes dans le fichier INSTRUCTIONS.md présent à la racine de ce projet.
+Veuillez suivre les indications présentes dans le fichier [INSTRUCTIONS.md](INSTRUCTIONS.md) présent à la racine de ce projet.
 Il contient les tâches à réaliser pour ce test.
 
 ## Envoyez vos résultats
