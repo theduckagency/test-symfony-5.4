@@ -33,7 +33,7 @@ Veuillez suivre les indications présentes dans le fichier [INSTRUCTIONS.md](INS
 Il contient les tâches à réaliser pour ce test.
 
 ## Envoyez vos résultats
-Pour envoyer vos résultats, vous simplement push votre travail avec un pull request.
+Pour envoyer vos résultats, vous pouvez tout simplement push votre travail avec un pull request.
 
 **Bonne chance !**
 
